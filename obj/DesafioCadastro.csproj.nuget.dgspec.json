@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Vinicius\\Desktop\\Cursos Online\\DesafioCadastro\\DesafioCadastro.csproj": {}
+    "C:\\Users\\Vinicius\\Desktop\\Cursos Online\\DesafioCadastro\\DesafioCadastro.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Vinicius\\Desktop\\Cursos Online\\DesafioCadastro\\DesafioCadastro.csproj": {
+    "C:\\Users\\Vinicius\\Desktop\\Cursos Online\\DesafioCadastro\\DesafioCadastro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Vinicius\\Desktop\\Cursos Online\\DesafioCadastro\\DesafioCadastro.csproj",
+        "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\Cursos Online\\DesafioCadastro\\DesafioCadastro.csproj",
         "projectName": "DesafioCadastro",
-        "projectPath": "c:\\Users\\Vinicius\\Desktop\\Cursos Online\\DesafioCadastro\\DesafioCadastro.csproj",
+        "projectPath": "C:\\Users\\Vinicius\\Desktop\\Cursos Online\\DesafioCadastro\\DesafioCadastro.csproj",
         "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Vinicius\\Desktop\\Cursos Online\\DesafioCadastro\\obj\\",
+        "outputPath": "C:\\Users\\Vinicius\\Desktop\\Cursos Online\\DesafioCadastro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config"
