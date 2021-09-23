@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\obj\Debug\net5.0\DesafioCadastro.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\obj\Debug\net5.0\DesafioCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\obj\Debug\net5.0\DesafioCadastro.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\obj\Debug\net5.0\DesafioCadastro.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\obj\Debug\net5.0\DesafioCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\bin\Debug\net5.0\DesafioCadastro.exe
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\bin\Debug\net5.0\DesafioCadastro.deps.json
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\bin\Debug\net5.0\DesafioCadastro.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\bin\Debug\net5.0\DesafioCadastro.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\bin\Debug\net5.0\DesafioCadastro.dll
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\bin\Debug\net5.0\ref\DesafioCadastro.dll
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\bin\Debug\net5.0\DesafioCadastro.pdb
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\obj\Debug\net5.0\DesafioCadastro.dll
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\obj\Debug\net5.0\ref\DesafioCadastro.dll
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\obj\Debug\net5.0\DesafioCadastro.pdb
+C:\Users\Vinicius\Desktop\Cursos Online\DesafioCadastro\obj\Debug\net5.0\DesafioCadastro.genruntimeconfig.cache
